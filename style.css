@@ -1,0 +1,89 @@
+body {
+    font-family: Veranda, sans-serif;
+    
+  }
+  
+  nav li {
+    display: inline-block;
+    font-size: 22px;
+    text-align: center;
+    padding: 18px;
+    margin: 10px;
+  }
+  
+  nav {
+    color: #000;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #4D7CE1;
+  }
+  
+  .name {
+    font-size: 16px;
+  }
+  
+  .mainpage {
+    position:absolute;
+    top: 40%;
+    left: 20%;
+    right: 20%;
+  }
+  
+  .jobs {
+    position:absolute;
+    top: 125px;
+    left: 125px;
+    right: 125px;
+    
+    padding:10px;
+  }
+  
+  section {
+    padding: 25px;
+  }
+  
+  h1.position {
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  h1 {
+    color: #4D7CE1;
+  }
+  
+  .contact {
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  p.description {
+    width: 600px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin: auto;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .email {
+    font-size: 30px;
+    text-align: center;
+  }
+  
